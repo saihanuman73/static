@@ -18,6 +18,15 @@
       "contact": "+27(0)12-420-3111/4111",
       "logo": "assets/imgs/up-logo.jpg",
       "courses": ["+27 (0)12 420 3111/4111", "Education", "Engineering, Built Environment and IT", "GIBS", "Health Sciences", "Humanities", "Law", "Natural and Agricultural Sciences", "Theology", "Veterinary Science"]
+    },
+    {
+      "name": "university of the witwatersrand",
+      "code": "UWW",
+      "location": "University of the Witwatersrand, Johannesburg",
+      "email": "studysa.international@wits.ac.za",
+      "contact": "+27 (0)11 717 1888",
+      "logo": "assets/imgs/up-logo.jpg",
+      "courses": ["Commerce","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     }
   ]
 }
