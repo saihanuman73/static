@@ -1,0 +1,23 @@
+{
+  "universityList": [{
+    "name": "University of cape town",
+    "code": "UCT",
+    "location": "University of Cape Town, Private Bag X3, Rondebosch 7701, South Africa",
+    "email": "help@vula.uct.ac.za",
+    "contact": "0216504500",
+    "logo": "assets/imgs/utc.png",
+    "courses": ["Commerce", "Engineering & the Built Environment", "Graduate School of Business",
+      "Humanities (Undergraduate)", "Humanities (Postgraduate)", "Law", "Science", "CHED"
+    ]
+  },
+    {
+      "name": "university of pretoria",
+      "code": "UP",
+      "location": "cnr Lynnwood Road and Roper Street Hatfield South Africa",
+      "email": "ssc@up.ac.za",
+      "contact": "+27(0)12-420-3111/4111",
+      "logo": "assets/imgs/up-logo.jpg",
+      "courses": ["+27 (0)12 420 3111/4111", "Education", "Engineering, Built Environment and IT", "GIBS", "Health Sciences", "Humanities", "Law", "Natural and Agricultural Sciences", "Theology", "Veterinary Science"]
+    }
+  ]
+}
