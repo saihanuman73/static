@@ -1,6 +1,6 @@
 {
   "universityList": [{
-    "name": "University of cape town",
+    "name": "University of Cape town",
     "code": "UCT",
     "location": "Private Bag X3, Rondebosch 7701, South Africa",
     "email": "help@vula.uct.ac.za",
@@ -11,7 +11,7 @@
     ]
   },
     {
-      "name": "university of pretoria",
+      "name": "University of Pretoria",
       "code": "UP",
       "location": "Roper Street Hatfield South Africa",
       "email": "ssc@up.ac.za",
@@ -20,7 +20,7 @@
       "courses": ["+27 (0)12 420 3111/4111", "Education", "Engineering, Built Environment and IT", "GIBS", "Health Sciences", "Humanities", "Law", "Natural and Agricultural Sciences", "Theology", "Veterinary Science"]
     },
     {
-      "name": "university of the witwatersrand",
+      "name": "University of the Witwatersrand",
       "code": "UWW",
       "location": "University of the Witwatersrand, Johannesburg",
       "email": "studysa.international@wits.ac.za",
@@ -29,7 +29,7 @@
       "courses": ["Commerce","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     },
                      {
-      "name": "university of johannesburg",
+      "name": "University of Johannesburg",
       "code": "UJ",
       "location": "Johannesburg, South Africa",
       "email": "myfuture@uj.ac.za",
@@ -38,7 +38,7 @@
       "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     },
                       {
-      "name": "durban university of technology",
+      "name": "Durban University of Technology",
       "code": "DUT",
       "location": "P O Box 1334, Durban 4000",
       "email": "info@dut.ac.za",
