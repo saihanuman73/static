@@ -5,7 +5,7 @@
     "location": "Private Bag X3, Rondebosch 7701, South Africa",
     "email": "help@vula.uct.ac.za",
     "contact": "0216504500",
-    "logo": "assets/imgs/univerUct.jpg",
+    "logo": "assets/imgs/univer_captown.jpg",
     "courses": ["Commerce", "Engineering & the Built Environment", "Graduate School of Business",
       "Humanities (Undergraduate)", "Humanities (Postgraduate)", "Law", "Science", "CHED"
     ]
@@ -16,7 +16,7 @@
       "location": "Roper Street Hatfield South Africa",
       "email": "ssc@up.ac.za",
       "contact": "+27(0)12-420-3111/4111",
-      "logo": "assets/imgs/univerpretoria.png",
+      "logo": "assets/imgs/univer_pretoria.png",
       "courses": ["+27 (0)12 420 3111/4111", "Education", "Engineering, Built Environment and IT", "GIBS", "Health Sciences", "Humanities", "Law", "Natural and Agricultural Sciences", "Theology", "Veterinary Science"]
     },
     {
@@ -25,7 +25,7 @@
       "location": "University of the Witwatersrand, Johannesburg",
       "email": "studysa.international@wits.ac.za",
       "contact": "+27 (0)11 717 1888",
-      "logo": "assets/imgs/Univerwits.jpg",
+      "logo": "assets/imgs/univer_witwater.jpg",
       "courses": ["Commerce","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     },
                      {
@@ -34,7 +34,7 @@
       "location": "Johannesburg, South Africa",
       "email": "myfuture@uj.ac.za",
       "contact": "+27 11 559 4555",
-      "logo": "assets/imgs/univerJohn.jpg",
+      "logo": "assets/imgs/univer_johnburg.jpg",
       "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     },
                       {
@@ -43,7 +43,7 @@
       "location": "P O Box 1334, Durban 4000",
       "email": "info@dut.ac.za",
       "contact": "0860 10 31 94",
-      "logo": "assets/imgs/universityDUT.jpg",
+      "logo": "assets/imgs/univer_durben.jpg",
       "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     }
   ]
