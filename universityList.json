@@ -45,6 +45,15 @@
       "contact": "0860 10 31 94",
       "logo": "assets/imgs/durban-institute-of-tech.png",
       "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
+    },
+                      {
+      "name": "Jawaharlal Nehru Technological University Hyderabad",
+      "code": "JNTU",
+      "location": "Kukatpally,Hyderabad,Telangana",
+      "email": "info@jntu.co",
+      "contact": "08620 10 31 9334",
+      "logo": "assets/imgs/durban-institute-of-tech.png",
+      "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
     }
   ]
 }
