@@ -1,0 +1,60 @@
+{
+  "universityList": [{
+    "name": "University of Cape town",
+    "code": "UCT",
+    "location": "Private Bag X3, Rondebosch 7701, South Africa",
+    "email": "help@vula.uct.ac.za",
+    "contact": "0216504500",
+    "logo": "assets/imgs/university-of-capetown.png",
+    "courses": ["Commerce", "Engineering & the Built Environment", "Graduate School of Business",
+      "Humanities (Undergraduate)", "Humanities (Postgraduate)", "Law", "Science", "CHED"
+    ]
+  },
+    {
+      "name": "University of Pretoria",
+      "code": "UP",
+      "location": "Roper Street Hatfield South Africa",
+      "email": "ssc@up.ac.za",
+      "contact": "+27(0)12-420-3111/4111",
+      "logo": "assets/imgs/university-of-Pretoria.png",
+      "courses": ["+27 (0)12 420 3111/4111", "Education", "Engineering, Built Environment and IT", "GIBS", "Health Sciences", "Humanities", "Law", "Natural and Agricultural Sciences", "Theology", "Veterinary Science"]
+    },
+    {
+      "name": "University of the Witwatersrand",
+      "code": "UWW",
+      "location": "University of the Witwatersrand, Johannesburg",
+      "email": "studysa.international@wits.ac.za",
+      "contact": "+27 (0)11 717 1888",
+      "logo": "assets/imgs/university-of-Witwatersrand.png",
+      "courses": ["Commerce","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
+    },
+                     {
+      "name": "University of Johannesburg",
+      "code": "UJ",
+      "location": "Johannesburg, South Africa",
+      "email": "myfuture@uj.ac.za",
+      "contact": "+27 11 559 4555",
+      "logo": "assets/imgs/university-of-johnsberb.png",
+      "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
+    },
+                      {
+      "name": "Durban University of Technology",
+      "code": "DUT",
+      "location": "P O Box 1334, Durban 4000",
+      "email": "info@dut.ac.za",
+      "contact": "0860 10 31 94",
+      "logo": "assets/imgs/durban-institute-of-tech.png",
+      "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
+    },
+                      {
+      "name": "Jawaharlal Nehru Technological University Hyderabad",
+      "code": "JNTU",
+      "location": "Kukatpally,Hyderabad,Telangana",
+      "email": "info@jntu.co",
+      "contact": "08620 10 31 9334",
+      "logo": "assets/imgs/jntu-univ-image.png",
+      "courses": [ "Art, Design & Architecture","Science","Law and Management","Engineering","Sciences","Health Sciences","Humanities","Engineering"]
+    }
+  ]
+}
+
